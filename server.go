@@ -7,8 +7,6 @@ import (
 	"net/http"
 )
 
-//TODO: 1) Заполнить README.md
-
 func main() {
 	fmt.Println("======== Go Travel ========")
 	fmt.Println("http://localhost:8081")
