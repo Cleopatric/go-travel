@@ -1,3 +1,3 @@
 # GoTravel
 
-![alt text](https://github.com/Cleopatric/go-travel/blob/master/icon.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Cleopatric/go-travel/main/icon.png?raw=true)
