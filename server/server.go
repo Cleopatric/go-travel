@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
-	"go-travel/src"
 	"net/http"
+	"server/src"
 )
 
 func main() {

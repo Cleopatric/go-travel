@@ -1,4 +1,4 @@
-module go-travel
+module server
 
 go 1.17
 
